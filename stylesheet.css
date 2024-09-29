@@ -1,0 +1,54 @@
+
+.start-box{
+    height: 150px;
+    width: 180px;
+}
+
+.card-box{
+    height: 120px;
+    background-color: green;
+}
+.card-box-result{
+    height: 90px;
+}
+
+h2{
+    text-size-adjust: 100px;
+}
+
+.card-size{
+    height: 80px;
+    width: 50px;
+    margin: 5px;
+}
+
+.card-size-result{
+    height: 60px;
+    width: 40px;
+    margin: 5px;
+    margin-top: 0;
+}
+
+#gamePage{
+    overflow: scroll;
+}
+
+.bet-box{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+.vh-10{
+    height: 10vh;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#gameOverLog{
+    overflow-y: scroll;
+}
